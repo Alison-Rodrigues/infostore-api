@@ -10,12 +10,21 @@
 	</parent>
 	<groupId>70eDev.br.md</groupId>
 	<artifactId>infostore-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>infostore-api</name>
+	<version>1.0.0</version>
+	<name>Infostore API</name>
 	<description>Eletronics Store API</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	<developers>
+		<developer>
+			<name>Alison Rodrigues</name>
+			<email>techsolution.ar@gmail.com</email>
+			<roles>
+				<role>developer</role>
+			</roles>
+		</developer>
+	</developers>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
