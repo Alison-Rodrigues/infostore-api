@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>70eDev.br.md</groupId>
 	<artifactId>infostore-api</artifactId>
-	<version>1.0.0</version>
+	<version>1.2.0</version>
 	<name>Infostore API</name>
 	<description>Eletronics Store API</description>
 	<properties>
